@@ -1,0 +1,24 @@
+{
+  "name": "chartjs-plugin-chroma",
+  "version": "0.1.0",
+  "description": "Integrates with chromajs to auto-generate color scale for charts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scotthsieh0503/chartjs-plugin-chroma.git"
+  },
+  "keywords": [
+    "chartjs",
+    "chartjs-plugin",
+    "chromajs"
+  ],
+  "author": "Scott Hsieh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scotthsieh0503/chartjs-plugin-chroma/issues"
+  },
+  "homepage": "https://github.com/scotthsieh0503/chartjs-plugin-chroma#readme"
+}
